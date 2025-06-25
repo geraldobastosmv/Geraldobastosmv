@@ -1,40 +1,39 @@
-## 👋 Olá! Eu sou o Geraldo
+## 👋 Hello! I'm Geraldo
 
-Sou estudante de **Ciência da Computação** 
-Atualmente, estou construindo minha jornada com foco em **Data Science**, combinando estudo técnico com projetos práticos e visão de produto.
+I'm a **Computer Science** student, currently building my journey with a focus on **Data Science**, combining technical study with practical projects and product vision.
 
-🎓 Em formação:
+🎓 Currently learning:
 - 📘 **CS50 – Harvard's Introduction to Computer Science**
-- ☕ Estudo **Java** paralelamente para aprofundar minha base em programação orientada a objetos
+- ☕ Studying **Java** to strengthen my understanding of object-oriented programming
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
-### 🔷 MOVE
+### 🔷 MOVE  
 **Mobility On Demand for Versatile Experience**  
-Plataforma de aluguel de veículos de lazer (jet skis, lanchas, UTVs e quadriciclos).  
-O usuário escolhe o veículo, o período e finaliza a reserva — tudo 100% digital.  
-Inspirado em modelos como Airbnb e Localiza, o projeto foca em **experiência, mobilidade e praticidade**.
+A platform for renting leisure vehicles (jet skis, boats, UTVs, and ATVs).  
+Users can choose the vehicle, select the rental period, and complete the booking — all 100% online.  
+Inspired by models like Airbnb and Localiza, this project focuses on **experience, mobility, and convenience**.
 
 ---
 
-### 🔷 PlaysTech
-Projeto autoral com foco em **tecnologia e soluções financeiras**.  
-A plataforma está sendo desenvolvida para ajudar usuários a:
-- Gerenciar **portfólios de ativos**
-- Controlar **despesas pessoais**
-- Entender melhor sua vida financeira com clareza, dados e autonomia
+### 🔷 PlaysTech  
+An original project focused on **technology and financial solutions**.  
+The platform is being developed to help users:
+- Manage **investment portfolios**
+- Control **personal expenses**
+- Gain clarity and autonomy in their financial lives through data
 
-O objetivo é unir **inteligência de dados**, organização financeira e acessibilidade em um só lugar.
+The goal is to bring together **data intelligence**, financial organization, and accessibility in one place.
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Email](gegebastos27@gmail.com)
+- [Email](mailto:gegebastos27@gmail.com)
 
 ---
 
-### Obrigado por visitar meu perfil!
+### Thanks for visiting my profile!
